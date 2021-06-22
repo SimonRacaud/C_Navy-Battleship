@@ -1,6 +1,7 @@
 # PSU_navy_2019
 
-100%, 0 standard error project.
+# Mark
+100%, 0 style error.
 
 Terminal version of a battleship game.
 The communication between game is realized with signal.
