@@ -3,9 +3,11 @@
 # Mark
 100%, 0 style error.
 
+# Subject
 Terminal version of a battleship game.
 The communication between game is realized with signal.
 
+# Usage
 ```
 ∼/B-PSU-200> ./navy -h
 USAGE
